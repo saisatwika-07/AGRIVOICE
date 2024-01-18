@@ -18,6 +18,10 @@ This project does a lot of helpful things. It tells farmers the weather right aw
 + **Crop Monitoring**: Monitor the health and growth of your crops through intuitive visualizations and alerts.
 + **Task Management**: Keep track of tasks related to planting, harvesting, and other critical activities.
 + **Marketplace**: Access a marketplace for buying/selling agricultural products and equipment.
+## Architecture
+![archi](https://github.com/saisatwika-07/AGRIVOICE/assets/129086759/0ab13461-7ea1-410d-8e22-08d1b7f0f0ae)
 ## Implementation (Front-end)
 ![agrivoice](https://github.com/saisatwika-07/AGRIVOICE/assets/129086759/8b8a6ed3-9b17-4888-a646-8fa4303f8a95)
+![Picture2](https://github.com/saisatwika-07/AGRIVOICE/assets/129086759/83272373-cc48-44f6-9142-cebfdd8cacaa)
+
 
