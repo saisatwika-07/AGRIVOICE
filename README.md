@@ -19,3 +19,5 @@ This project does a lot of helpful things. It tells farmers the weather right aw
 + **Task Management**: Keep track of tasks related to planting, harvesting, and other critical activities.
 + **Marketplace**: Access a marketplace for buying/selling agricultural products and equipment.
 
+![agrivoice](https://github.com/saisatwika-07/AGRIVOICE/assets/129086759/8b8a6ed3-9b17-4888-a646-8fa4303f8a95)
+
